@@ -1,0 +1,28 @@
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\Users\DELL\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\bin\Debug\AGauge.dll
+C:\Users\DELL\Desktop\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Fuzzy_Control.resources
+E:\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\New folder\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Fuzzy_Control.resources
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\New folder\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
